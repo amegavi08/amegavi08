@@ -1,4 +1,4 @@
-<h1 align="center">Francis Amegavi 👋</h1>
+<h1 align="center">Francis Amegavi</h1>
 <h3 align="center">Senior Backend Engineer | Distributed Systems | Cloud & API Architecture</h3>
 
 <p align="center">
@@ -17,9 +17,9 @@ I specialize in:
 - ⚡ Building **high-performance REST APIs**
 - 💳 Implementing **secure payment & transactional systems**
 - 🔔 Architecting **real-time & event-driven systems (Kafka, WebSockets, Firebase)**
-- ☁️ Deploying production workloads on **AWS (EC2, Nginx, Docker, Redis)**
+- ☁️ Deploying production workloads on **AWS (EC2, S3, Nginx, Docker, Redis)**
 - 🔐 Designing authentication, authorization & verification flows
-- 📊 Engineering booking, rental & multi-tenant platforms
+- 📊 Engineering booking, rental & multi-tenant platforms.
 
 I focus on writing clean, extensible backend code that supports long-term product growth.
 
@@ -50,7 +50,7 @@ I focus on writing clean, extensible backend code that supports long-term produc
 - Transaction handling & data integrity design
 
 ### ⚙️ Infrastructure & DevOps
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,redis,nginx,kubernetes,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,redis,nginx,kubernetes,linux,jenkins)](https://skillicons.dev)
 
 - AWS EC2 deployment
 - Docker & Docker Compose orchestration
@@ -74,7 +74,11 @@ I focus on writing clean, extensible backend code that supports long-term produc
 - Real-time notification systems with Kafka & Firebase
 - Cloud-deployed APIs with Redis caching
 - Email & SMS verification pipelines
-
+- Customer Relationship Management system
+- Enterprise Resource Planning system for an organization
+- School Adminitration dashboard
+- Receptionist application - FrontDesk
+  
 ---
 
 ## 🧩 Engineering Philosophy
