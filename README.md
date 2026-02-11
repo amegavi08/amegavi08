@@ -37,7 +37,7 @@ I focus on writing clean, extensible backend code that supports long-term produc
 ## 🧠 Technical Expertise
 
 ### 💻 Languages
-[![My Skills](https://skillicons.dev/icons?i=ts,js,py,go)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,py)](https://skillicons.dev)
 
 ### 🚀 Backend Frameworks
 [![My Skills](https://skillicons.dev/icons?i=nestjs,nodejs,fastapi,express)](https://skillicons.dev)
