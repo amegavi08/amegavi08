@@ -90,7 +90,7 @@ I focus on writing clean, extensible backend code that supports long-term produc
 ## 📫 Let's Connect
 
 <p align="center">
- <a href="YOUR_PORTFOLIO_LINK">
+ <a href="https://www.linkedin.com/in/francis-amegavi-3ba92619a/">
   <img border="0" alt="Portfolio" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/40/000000/external-resume-business-recruitment-itim2101-lineal-color-itim2101.png">
  </a>
 
