@@ -58,7 +58,7 @@ I focus on writing clean, extensible backend code that supports long-term produc
 - Reverse proxy configuration (Nginx)
 
 ### 🔄 Messaging & Event Systems
-[![My Skills](https://skillicons.dev/icons?i=kafka,redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kafka,redis,rabbitmq)](https://skillicons.dev)
 
 - Kafka-based event-driven systems
 - Real-time dashboard notifications
